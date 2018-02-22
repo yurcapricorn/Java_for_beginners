@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * User Input module for Calculator
+ * User Input module for Operators
  */
 class UserInput {
     /**

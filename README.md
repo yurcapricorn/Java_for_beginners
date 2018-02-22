@@ -3,6 +3,6 @@ homeworks for the course https://www.youtube.com/playlist?list=PLW8mAQ8rFUhKFkuX
 https://github.com/peterarsentev/java-courses
 
 hw-1
-Создать класс Calculate.
+Создать класс Calculator.
 Добавить арифметические вычисления + - * / ^
 Сделать его адаптивным для типов int, short, long, float, double.
